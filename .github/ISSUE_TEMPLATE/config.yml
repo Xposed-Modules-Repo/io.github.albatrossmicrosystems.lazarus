@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a bug or request a feature
+    url: https://github.com/AlbatrossMicrosystems/lazarus-xposed/issues/new/choose
+    about: Lazarus is developed in its main repository. Please open issues there.
+  - name: Report a security vulnerability
+    url: https://github.com/AlbatrossMicrosystems/lazarus-xposed/security/advisories/new
+    about: Please report security problems privately, not as a public issue.
